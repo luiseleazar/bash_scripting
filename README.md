@@ -1,6 +1,7 @@
 # Bash Scripting course
 
-This scripts are the result of taking the Bash Scripting and Shell Programming course by Jason Cannon on Udemy
+These scripts are the result of taking the [Bash Scripting and Shell Programming](https://www.udemy.com/course/bash-scripting/) course by Jason Cannon on Udemy
+
 
 The scripts are ordered by topic:
 0. Shebang usage
