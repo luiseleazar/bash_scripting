@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #Comments/file header
+#############NOTE: This file is not executable
 
 #Global variables
 
